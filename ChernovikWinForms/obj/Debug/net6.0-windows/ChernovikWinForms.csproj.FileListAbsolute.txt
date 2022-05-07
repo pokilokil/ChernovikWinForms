@@ -1,0 +1,17 @@
+C:\Users\OMEN\source\repos\ChernovikWinForms\ChernovikWinForms\bin\Debug\net6.0-windows\ChernovikWinForms.exe
+C:\Users\OMEN\source\repos\ChernovikWinForms\ChernovikWinForms\bin\Debug\net6.0-windows\ChernovikWinForms.deps.json
+C:\Users\OMEN\source\repos\ChernovikWinForms\ChernovikWinForms\bin\Debug\net6.0-windows\ChernovikWinForms.runtimeconfig.json
+C:\Users\OMEN\source\repos\ChernovikWinForms\ChernovikWinForms\bin\Debug\net6.0-windows\ChernovikWinForms.dll
+C:\Users\OMEN\source\repos\ChernovikWinForms\ChernovikWinForms\bin\Debug\net6.0-windows\ChernovikWinForms.pdb
+C:\Users\OMEN\source\repos\ChernovikWinForms\ChernovikWinForms\obj\Debug\net6.0-windows\ChernovikWinForms.csproj.AssemblyReference.cache
+C:\Users\OMEN\source\repos\ChernovikWinForms\ChernovikWinForms\obj\Debug\net6.0-windows\ChernovikWinForms.Form1.resources
+C:\Users\OMEN\source\repos\ChernovikWinForms\ChernovikWinForms\obj\Debug\net6.0-windows\ChernovikWinForms.csproj.GenerateResource.cache
+C:\Users\OMEN\source\repos\ChernovikWinForms\ChernovikWinForms\obj\Debug\net6.0-windows\ChernovikWinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMEN\source\repos\ChernovikWinForms\ChernovikWinForms\obj\Debug\net6.0-windows\ChernovikWinForms.AssemblyInfoInputs.cache
+C:\Users\OMEN\source\repos\ChernovikWinForms\ChernovikWinForms\obj\Debug\net6.0-windows\ChernovikWinForms.AssemblyInfo.cs
+C:\Users\OMEN\source\repos\ChernovikWinForms\ChernovikWinForms\obj\Debug\net6.0-windows\ChernovikWinForms.csproj.CoreCompileInputs.cache
+C:\Users\OMEN\source\repos\ChernovikWinForms\ChernovikWinForms\obj\Debug\net6.0-windows\ChernovikWinForms.dll
+C:\Users\OMEN\source\repos\ChernovikWinForms\ChernovikWinForms\obj\Debug\net6.0-windows\refint\ChernovikWinForms.dll
+C:\Users\OMEN\source\repos\ChernovikWinForms\ChernovikWinForms\obj\Debug\net6.0-windows\ChernovikWinForms.pdb
+C:\Users\OMEN\source\repos\ChernovikWinForms\ChernovikWinForms\obj\Debug\net6.0-windows\ChernovikWinForms.genruntimeconfig.cache
+C:\Users\OMEN\source\repos\ChernovikWinForms\ChernovikWinForms\obj\Debug\net6.0-windows\ref\ChernovikWinForms.dll
