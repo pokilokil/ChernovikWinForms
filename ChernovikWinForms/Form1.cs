@@ -18,25 +18,25 @@ namespace ChernovikWinForms
         {
             if(TextDeleteFlag == true)
             {
-                TextDeleteFlag=false;
-                ResultBtn.Text = "";
+                TextDeleteFlag = false;
+                ResultTextbox.Text = "";
             }
 
             Button ClickedButt = (Button)sender;
-            ResultBtn.Text = ResultBtn.Text + ClickedButt.Text;
+            ResultTextbox.Text = ResultTextbox.Text + ClickedButt.Text;
 
         }
 
         private void BtnCE_Click(object sender, EventArgs e)
         {
-            ResultBtn.Text = "";
+            ResultTextbox.Text = "";
         }
 
         private void PlusBtn_Click(object sender, EventArgs e)
         {
             Button ClickedButt = (Button)sender;
             Compare = ClickedButt.Text;
-            FirstNumber = ResultBtn.Text;
+            FirstNumber = ResultTextbox.Text;
             TextDeleteFlag = true;
         }
 
@@ -44,28 +44,28 @@ namespace ChernovikWinForms
         {
             double Matchone, Matchtwo, MatchResult;
             Matchone = Convert.ToDouble(FirstNumber);
-            Matchtwo = Convert.ToDouble(ResultBtn.Text);
+            Matchtwo = Convert.ToDouble(ResultTextbox.Text);
             if(Compare == "+")
             {
                 MatchResult = Matchone + Matchtwo;
-                ResultBtn.Text = Convert.ToString(MatchResult);
+                ResultTextbox.Text = Convert.ToString(MatchResult);
             }
             if (Compare == "-")
             {
                 MatchResult = Matchone - Matchtwo;
-                ResultBtn.Text = Convert.ToString(MatchResult);
+                ResultTextbox.Text = Convert.ToString(MatchResult);
             }
             if (Compare == "/")
             {
                 MatchResult = Matchone / Matchtwo;
-                ResultBtn.Text = Convert.ToString(MatchResult);
+                ResultTextbox.Text = Convert.ToString(MatchResult);
                 
 
             }
             if (Compare == "*")
             {
                 MatchResult = Matchone * Matchtwo;
-                ResultBtn.Text = Convert.ToString(MatchResult);
+                ResultTextbox.Text = Convert.ToString(MatchResult);
             }
 
         }
@@ -73,7 +73,7 @@ namespace ChernovikWinForms
         private void button2_Click(object sender, EventArgs e)
         {
             Button ClickedButt = (Button)sender;
-            ResultBtn.Text = ResultBtn.Text + ClickedButt.Text;
+            ResultTextbox.Text = ResultTextbox.Text + ClickedButt.Text;
         }
     }
 }

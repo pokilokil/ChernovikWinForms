@@ -47,7 +47,7 @@
             this.button2 = new System.Windows.Forms.Button();
             this.PlusBtn = new System.Windows.Forms.Button();
             this.Btn1 = new System.Windows.Forms.Button();
-            this.ResultBtn = new System.Windows.Forms.TextBox();
+            this.ResultTextbox = new System.Windows.Forms.TextBox();
             this.panel1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -71,7 +71,7 @@
             this.panel1.Controls.Add(this.button2);
             this.panel1.Controls.Add(this.PlusBtn);
             this.panel1.Controls.Add(this.Btn1);
-            this.panel1.Controls.Add(this.ResultBtn);
+            this.panel1.Controls.Add(this.ResultTextbox);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel1.Location = new System.Drawing.Point(0, 0);
             this.panel1.Name = "panel1";
@@ -278,11 +278,11 @@
             // 
             // ResultBtn
             // 
-            this.ResultBtn.Font = new System.Drawing.Font("Segoe UI", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.ResultBtn.Location = new System.Drawing.Point(24, 12);
-            this.ResultBtn.Name = "ResultBtn";
-            this.ResultBtn.Size = new System.Drawing.Size(359, 50);
-            this.ResultBtn.TabIndex = 0;
+            this.ResultTextbox.Font = new System.Drawing.Font("Segoe UI", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.ResultTextbox.Location = new System.Drawing.Point(24, 12);
+            this.ResultTextbox.Name = "ResultBtn";
+            this.ResultTextbox.Size = new System.Drawing.Size(359, 50);
+            this.ResultTextbox.TabIndex = 0;
             // 
             // Form1
             // 
@@ -304,7 +304,7 @@
         #endregion
 
         private Panel panel1;
-        private TextBox ResultBtn;
+        private TextBox ResultTextbox;
         private Button Btn1;
         private Button BtnC;
         private Button BtnCE;
